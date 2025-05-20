@@ -129,7 +129,7 @@ Model and training hyperparameters can be configured via the script or wandb con
 
 ## Experiment Tracking
 
-Integrated with [Weights & Biases](https://wandb.ai/) for:
+Integrated with [Weights & Biases]([https://wandb.ai/](https://wandb.ai/na21b051-indian-institute-of-technology-madras/DA_seq2seq_transliteration/reports/DA6401-Assignment-3--VmlldzoxMjg2Mzk2MQ?accessToken=n2jwxobfm9ubuk83jmbsgl4g0ye7qzc1anfux61kiceb4b0l3y7d1uqfvwuc9ip4)) for:
 
 - Automatic logging of hyperparameters and configuration
 - Real-time tracking of training and validation metrics
